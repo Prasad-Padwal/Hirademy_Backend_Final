@@ -7,7 +7,8 @@ Maven installed
 MySQL installed and running
 Installation: -
 Clone the repository:
-    git clone https://github.com/Prasad-Padwal/Hirademy_Backend_Final.git
+
+git clone https://github.com/Prasad-Padwal/Hirademy_Backend_Final.git
 Set up the database:
 Create a MySQL database named assdb
 Update the database configuration in src/main/resources/application.properties
